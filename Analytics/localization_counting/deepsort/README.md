@@ -12,7 +12,7 @@ This is an implementation of the Multiple Object Tracking (MOT) algorithm deep s
 ## Install
 - Download and uncompress PyTorch and OpenVINO model weights
 ```
-wget http://ava.eecs.qmul.ac.uk/resources/weights/A3.zip
+wget http://test-cyl.eecs.qmul.ac.uk/ava/A3.zip
 unzip A3.zip
 ```
 
