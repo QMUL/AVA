@@ -11,7 +11,7 @@ This is an implementation of FaceLib for age and gender estimation.
 
 - Download and uncompress PyTorch and OpenVINO model weights
 ```
-wget http://ava.eecs.qmul.ac.uk/resources/weights/A5.zip
+wget http://test-cyl.eecs.qmul.ac.uk/ava/A5.zip
 unzip A5.zip
 ```
 
