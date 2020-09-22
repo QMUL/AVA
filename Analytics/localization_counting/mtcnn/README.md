@@ -10,7 +10,7 @@ This is an implementation of MTCNN: Multi-task Cascaded Convolutional Networks.
 ## Install
 - Download and uncompress PyTorch and OpenVINO model weights
 ```
-wget http://ava.eecs.qmul.ac.uk/resources/weights/A2.zip
+wget http://test-cyl.eecs.qmul.ac.uk/ava/A2.zip
 unzip A2.zip
 ```
 
