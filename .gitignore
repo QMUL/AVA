@@ -1,0 +1,37 @@
+# Ignore extensions:
+
+# Videos
+*.mpg
+*.avi
+*.mp4
+*.mkv
+
+# Images
+*.png
+*.jpg
+*.gif
+
+# Models
+*.t7
+*.weights
+*.pt
+*.pth
+*.tar
+*.onnx
+*.bin
+*.mapping
+
+# Others
+*.mat
+*.xml
+*.pyc
+*.pb
+*.txt
+*.so
+*.tar.gz
+*.zip
+*.DS_Store
+
+# Include output directory
+!Analytics/localization_counting/output/**
+!Analytics/age_gender/output/**
