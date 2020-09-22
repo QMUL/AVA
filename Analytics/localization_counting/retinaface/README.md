@@ -12,7 +12,7 @@ This is an implement of RetinaFace: Single-stage Dense Face Localisation in the 
 ## Install
 - Download and uncompress PyTorch and OpenVINO model weights
 ```
-wget http://ava.eecs.qmul.ac.uk/resources/weights/A1.zip
+wget http://test-cyl.eecs.qmul.ac.uk/ava/A1.zip
 unzip A1.zip
 ```
 
