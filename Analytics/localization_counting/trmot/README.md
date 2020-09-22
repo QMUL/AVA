@@ -11,7 +11,7 @@ This is an implementation of Joint Detection and Embedding (JDE) model. JDE is a
 ## Install
 - Download and uncompress PyTorch model weights (OpenVINO model is not available)
 ```
-wget http://ava.eecs.qmul.ac.uk/resources/weights/A4.zip
+wget http://test-cyl.eecs.qmul.ac.uk/ava/A4.zip
 unzip A4.zip
 ```
 
