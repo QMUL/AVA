@@ -17,16 +17,24 @@ The implemented trackers localize full person bodies.
 - **Algorithm 4:** [TRMOT](https://github.com/QMUL/AVA/tree/master/Analytics/localization_counting/trmot)
 
 # Running on the whole dataset
-We provide a script that it can be used to run an/some algorithm(s) in the whole dataset.
+We provide a script that can be used to run an/some algorithm(s) in the whole dataset.
 
-- Prior to run th script, fill path to dataset and conda in <i>run.sh</i>. Then, for GPU inference
+- In the desired script, fill the paths to dataset and conda
+
+- For GPU inference
 ```
-bash runGPU.sh
+bash run_gpu.sh
 ```
 
-or, for CPU inference
+- For CPU inference
 ```
-bash runCPU.sh
+bash run_cpu.sh
 ```
+
+- For OpenVINO CPU inference
+```
+bash run_ov.sh
+```
+
 # Output data format
 The output data format is as indicated [here](https://github.com/QMUL/AVAB/tree/master/Analytics#output-data-format). Age and gender spaces are filled by -2, as localization algorithms do not provide such as information.
