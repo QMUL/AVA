@@ -123,7 +123,7 @@ git clone https://github.com/QMUL/AVA.git
 pip install -r requirements.txt
 ```
 
-- Download the desired model weigths, for example for all algorithms
+- Download the desired model weigths, for all algorithms
 ```
 bash get_all_weights.sh
 ```
