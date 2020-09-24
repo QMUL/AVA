@@ -28,11 +28,11 @@ A person has <i>Opportunity to See</i> (OTS) the signage when their face is visi
 
 
 ## The dataset
-The dataset was collected in settings that mimic real-world signage-camera setups used for AVA, and it is composed of 16 videos recorded at different locations such as airports, malls, subway stations, and pedestrian areas. Outdoor videos are recorded at different day times such as morning, afternoon, and evening.
+The dataset was collected in settings that mimic real-world signage-camera setups used for AVA, and it is composed of 16 videos recorded at different locations such as airports, malls, subway stations, and pedestrian areas. Outdoor videos are recorded at different times of the day such as morning, afternoon, and evening.
 The dataset is recorded with Internet Protocol or USB fixed cameras with wide and narrow lenses to mimic the real-world use cases. Videos are recorded at 1920x1080 resolution and 30fps.
 The dataset includes videos of duration between 2 minutes and 30 seconds, and 6 minutes and 26 seconds, totaling over 78 minutes, with over 141,000 frames.
-The videos feature 34 professional actors. The dataset includes multi-ethnic people including Asian, Caucasian, African-American, and Hispanic; whose age ranges from 10 to 80, including male and female genders. Also, people have been recorded with varied emotions while looking at the signage.
-A sample frame of each location is shown below. For the <i>mall</i> location, two videos are recorded at different temporal moments: indoors (Mall-1/2) and outdoors (Mall-3/4).
+The videos feature 34 professional actors.
+A sample frame of each location is shown below. For the <i>mall</i> location, two videos are at different times: indoors (Mall-1/2) and outdoors (Mall-3/4).
 
 <table class="tg2">
 <tbody>
