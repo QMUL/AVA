@@ -4,7 +4,7 @@
 <img src="http://ava.eecs.qmul.ac.uk/resources/intro_github2.jpg" alt="Annoymous video analytics framework" style="height:200px"/>
 </p>
 
-Welcome to the official site of <i>Benchmark for Anonymous Video Analytics</i> (AVA) for digital out-of-home audience measurement.
+Welcome to the repository of <i>Benchmark for Anonymous Video Analytics</i> (AVA) for digital out-of-home audience measurement.
 AVA aims to enable real-time understanding of audiences exposed to advertisements in order to estimate the reach and effectiveness of each advertisement.
      
 AVA relies on person detectors or trackers to localize people and to enable the estimation of audience attributes, such as their demographics. The benchmark is composed of:
@@ -20,7 +20,7 @@ The benchmark considers localization, count, age, and gender as attributes for t
  <img src="http://ava.eecs.qmul.ac.uk/resources/taxonomy.jpg" width="800" alt="Taxonomy">
 </p>
 
-We consider a person to have <i>Opportunity to See</i> (OTS) the signage when their face is visible from the left profile to the right profile, and the person is <i>not</i> heading opposite to the location of the camera, as shown in the figure below. We consider only the attributes of people with OTS.
+A person has <i>Opportunity to See</i> (OTS) the signage when their face is visible from the left profile to the right profile, and the person is <i>not</i> heading opposite to the location of the camera, as shown in the figure below. We consider only the attributes of people with OTS.
 
 <p align="center">
  <img src="http://ava.eecs.qmul.ac.uk/resources/OTS.jpg" width="800" alt="Opportunity to see">
