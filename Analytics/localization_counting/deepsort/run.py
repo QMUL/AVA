@@ -5,13 +5,11 @@ import argparse
 import torch
 import numpy as np
 
-
 from deep_sort import build_tracker
 from utils.draw import draw_boxes
 from utils.parser import get_config
 
 from tqdm import tqdm
-
 
 class VideoTracker(object):
 	def __init__(self, cfg, args):
@@ -111,7 +109,7 @@ class VideoTracker(object):
 				if self.args.le and  fr % skip_frames != 0:
 					continue
 				
-				if fr % self.args.skip != 0:
+				if self.args.skip!=0 and fr % self.args.skip != 0:
 					continue
 
 
