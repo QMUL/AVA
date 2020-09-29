@@ -41,4 +41,5 @@ pyyaml
 easydict
 cython_bbox
 requests
+networkx
 tabulate
