@@ -43,4 +43,5 @@ cython_bbox
 requests
 networkx
 defusedxml
+protobuf
 tabulate
