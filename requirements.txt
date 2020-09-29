@@ -40,4 +40,5 @@ zipp==3.1.0
 pyyaml
 easydict
 cython_bbox
+requests
 tabulate
