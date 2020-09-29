@@ -42,4 +42,5 @@ easydict
 cython_bbox
 requests
 networkx
+defusedxml
 tabulate
