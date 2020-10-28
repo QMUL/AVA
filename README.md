@@ -89,7 +89,7 @@ A sample frame of each location is shown below. For the <i>mall</i> location, tw
 
 
 ## Installation
-The algorithms have been tested on Ubuntu 16.04 and MacOS 10.15.6 with the libraries on the version requested in requirements.txt and with OpenVINO 2020.1.
+The algorithms have been tested on Ubuntu 16.04 and MacOS 10.15.6 with the libraries on the version requested in requirements.txt and with OpenVINO 2020.1. The installation instructions below are for Intel/AMD based systems.
 
 The creation of a single conda environment suffices for running all baseline algorithms and evaluation codes present in the repository.
 
@@ -128,9 +128,14 @@ pip install -r requirements.txt
 bash get_all_weights.sh
 ```
 
+### Resources for NVIDIA Jetson Nano
+The algorithms have also been tested in NVIDIA Jetson Nano. Follow the below resources to:
+- [Setup NVIDIA Jetson Nano](https://www.pyimagesearch.com/2020/03/25/how-to-configure-your-nvidia-jetson-nano-for-computer-vision-and-deep-learning). Steps 8/9 are specially useful for setting up a virtual environmnet.
+- [Install PyTorch](https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-6-0-now-available/72048)
+
 
 ## Related material
- - Paper: pre-print (coming soon) and publication (under review) 
+ - Paper: [pre-print](https://arxiv.org/pdf/2009.14684.pdf)
  - [Project website](http://ava.eecs.qmul.ac.uk/) 
  - [Dataset download](http://ava.eecs.qmul.ac.uk/Dataset) 
  - [Evaluation tool](http://ava.eecs.qmul.ac.uk/Evaluation)
