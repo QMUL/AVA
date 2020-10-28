@@ -130,7 +130,7 @@ bash get_all_weights.sh
 
 ### Resources for NVIDIA Jetson Nano
 The algorithms have also been tested in NVIDIA Jetson Nano. Follow the below resources to:
-- [Setup NVIDIA Jetson Nano](https://www.pyimagesearch.com/2020/03/25/how-to-configure-your-nvidia-jetson-nano-for-computer-vision-and-deep-learning). Steps 8/9 are specially useful for setting up a virtual environmnet.
+- [Setup NVIDIA Jetson Nano](https://www.pyimagesearch.com/2020/03/25/how-to-configure-your-nvidia-jetson-nano-for-computer-vision-and-deep-learning). Steps 8/9 are specially useful for setting up a virtual environment.
 - [Install PyTorch](https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-6-0-now-available/72048)
 
 
