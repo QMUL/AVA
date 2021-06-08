@@ -18,7 +18,7 @@ numba==0.48.0
 opencv-python==4.2.0.32
 packaging==20.1
 pandas==1.0.1
-pillow==7.0.0
+pillow==8.2.0
 pluggy==0.13.1
 py==1.8.1
 py-cpuinfo==5.0.0
