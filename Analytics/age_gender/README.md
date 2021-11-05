@@ -10,4 +10,4 @@ The implemented age and gender estimation algorithms are:
 Both algorithms estimate simultaneously age and gender.
 
 ## Output data format
-The output data format is as indicated [here](https://github.com/QMUL/AVAB/tree/master/Code/Analytics/People#output-data-format). The -2 (unavailable) results by localization algorithms will be filled by the estimated age and gender.
+The output data format is as indicated [here](https://github.com/QMUL/AVA/tree/master/Analytics#output-ava-data-format). The -2 (unavailable) results by localization algorithms will be filled by the estimated age and gender.
